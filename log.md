@@ -8,12 +8,7 @@ from today onwards I will do atleast 1hour of code for next 100days.
 wrap my head around dynamic memory allocation, pointers, refference and stack frames.
 read about it from geeks for geeks/ c++/ pointers and book- computer science with c++ by sumita arora.
 
-## DAY:1 21 AUGUST 2020, FRI DAY
-#### Today's Progress   
-wrap my head around dynamic memory allocation, pointers, refference and stack frames.
-read about it from geeks for geeks/ c++/ pointers and book- computer science with c++ by sumita arora.
-
-## DAY:1 22 AUGUST 2020, SATUR DAY
+## DAY:2 22 AUGUST 2020, SATUR DAY
 #### Today's Progress   
 Today I have worked on Data Structures.
 I went through singly linked list. Learned the basics and able to implement it in some problems related to insertion(at beggining of list, End and Desired place), Deletion and some manipulation questions. Reffered [geeksforgeeks singly linked list data structure](https://www.geeksforgeeks.org/data-structures/linked-list/#singlyLinkedList).
