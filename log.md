@@ -21,3 +21,21 @@ Firstly I got stuck at handling pointer objects for the structure node of linked
 3. [Finding the length](http://geeksquiz.com/find-length-of-a-linked-list-iterative-and-recursive/)
 4. [Searching for an Element](http://geeksquiz.com/search-an-element-in-a-linked-list-iterative-and-recursive/)
 
+## DAY:3 23 AUGUST 2020, SUN DAY
+#### Today's Progress   
+learnt stackFrame and in continuation to #Day02 worked on some linked list problems.
+#### Thoughts
+Get to know what's going on behind the scene while compilation and execution.
+#### Link(s) To Work
+[stack frame](https://www.techopedia.com/definition/22304/stack-frame#:~:text=A%20stack%20frame%20is%20a%20memory%20management%20technique,frames%20are%20only%20existent%20during%20the%20runtime%20process.)
+
+
+## DAY:4 24 AUGUST 2020, MON DAY
+#### Today's Progress   
+solved problems on codechef DSA learning series-contest 1 complexity analysis and basic warmup.
+#### thought
+very interesting problems !!
+#### Link(s) To Work
+[code chef dsa learning series](https://www.codechef.com/LRNDSA01?order=desc&sortBy=successful_submissions)
+
+
