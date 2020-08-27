@@ -38,4 +38,25 @@ very interesting problems !!
 #### Link(s) To Work
 [code chef dsa learning series](https://www.codechef.com/LRNDSA01?order=desc&sortBy=successful_submissions)
 
+## DAY:5 25 AUGUST 2020, TUES DAY
+#### Today's Progress
+STACK and QUEUE. learnt the implementation, workout on some basic problems related to it.
+solved some more questions like matching brackets, minimum operation required to make two strings anagram etc.
+#### thought
+Plenty of real life examples of LIFO and FIFO can give a good intuition before solving, implementing it.
+#### Link's To Work
+1. [stack data structure](https://www.geeksforgeeks.org/stack-data-structure/)
+2. [Queue data structure](https://www.geeksforgeeks.org/queue-data-structure/)
+3. [Anagram](https://www.hackerearth.com/problem/algorithm/anagram-31/)
+
+
+## DAY:6 26 AUGUST 2020, WEDNES DAY
+#### Today's Progress
+started with doubly linked list.
+learned the theories from geeks for geeks doubly linked list data structure.
+implemented it through some insertion, deletion and manipulation questions.
+#### thought
+its kindoff confusing to maintain two pointers and their links to next and previous but cleared after implementing in few problems.
+#### Link's To Work
+1. [doubly linked list data structure](https://www.geeksforgeeks.org/doubly-linked-list/)
 
