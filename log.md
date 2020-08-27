@@ -55,6 +55,7 @@ Plenty of real life examples of LIFO and FIFO can give a good intuition before s
 started with doubly linked list.
 learned the theories from geeks for geeks doubly linked list data structure.
 implemented it through some insertion, deletion and manipulation questions.
+& started with leetcode.
 #### thought
 its kindoff confusing to maintain two pointers and their links to next and previous but cleared after implementing in few problems.
 #### Link's To Work
