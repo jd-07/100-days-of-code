@@ -16,7 +16,7 @@ set, not set bits nad some more realted problems.
 [Bit Manipulation](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
 both theories and problems.
 
-## Day-01 <08/09/2020, TuesDay>
+## Day-02 <08/09/2020, TuesDay>
 ### Todays Progress
 learnt the theries of circular linked list. Implemented it solving some problems like - splitting the circular list into two circular lists, sorted insert in circular list, checking whether its circular or not. . . .
 practiced some more problems of linear Data Structures on dsa learning series codechef.
@@ -26,3 +26,61 @@ practiced some more problems of linear Data Structures on dsa learning series co
 2. [Split a circular linked list into two halfs](https://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/?ref=lbp)
 3. [sorted insert for circular linked list](https://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/?ref=lbp)
 4. [Linear data structure](https://www.codechef.com/LRNDSA02)
+
+
+## Day-03 <09/09/2020, WednesDay>
+### Todays progress
+Worked on linked list
+->polynomial addition and multiplication implementation using linked list.
+->Implementation of stack using linked list.
+and some more problems on stack.
+
+
+## Day-04 <10/09/2020, ThurseDay>
+### Todays progress
+Learnt the implementation od sparsed matrix. 
+worked on some problems of queue datastructure, circular queue implementation and 
+double ended queue.
+
+
+## Day-05 <11/09/2020, FriDay>
+### Todays progress
+evaluation and conversions of infix, postfix expressions using stack
+
+
+## Day-06 <12/09/2020, SaturDay>
+### Todays progress
+Revised linked list, stacks and queue datastructure and solved some problems related to it.
+gone through problems on linear data structure of dsa learning series codechef.
+
+
+## Day-07 <13/09/2020, SunDay>
+### Todays progress
+gone through KMP algorithm & solved
+algorithm to finding oxurance of a substring on a string.
+finding largest prefix that is suffix as well.
+
+### links to work
+1. [kmp algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+
+## Day-08 <14/09/2020, MonDay>
+### Todays progress
+started with HASHING.
+learnt the theory and different collision handling technique.
+
+### links to work
+1. [hashing](https://www.geeksforgeeks.org/hashing-data-structure/)
+
+## Day-09 <15/09/2020, TuesDay>
+### Todays progress
+in continuation to day 08 solved some more problems on hashing.
+
+## Day-10 <17/09/2020, ThurseDay>
+### Todays progress
+learnt the STL implementaion stack, queue, deque, maps.
+
+### links to work
+1. [map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+2. [stack](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
+3. [queue](https://www.geeksforgeeks.org/queue-cpp-stl/)
+
