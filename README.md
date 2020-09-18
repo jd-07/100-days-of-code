@@ -1,2 +1,4 @@
-### I have joined the 
-# #100DaysOfCode Challenge
+#account links 
+
+-[hackerearth](http://www.hackerearth.com/@jagadish132)
+-[hackerrank]()
