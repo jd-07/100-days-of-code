@@ -84,3 +84,11 @@ learnt the STL implementaion stack, queue, deque, maps.
 2. [stack](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
 3. [queue](https://www.geeksforgeeks.org/queue-cpp-stl/)
 
+
+## Day-11 <21/09/2020 SunDay>
+learnt stl implementation of map and unordered_map and solved some questions using map.
+
+### links to work
+1. [Finding the frequencies of all word in a string](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
+2. [Find the number of substrings with sum k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/)
+3. [Breacket Sequence](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/bracket-sequence-1-40eab940/)
