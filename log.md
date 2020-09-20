@@ -35,6 +35,10 @@ Worked on linked list
 ->Implementation of stack using linked list.
 and some more problems on stack.
 
+### links to work
+-> [addition of two polynomials](https://www.geeksforgeeks.org/adding-two-polynomials-using-linked-list/)
+-> [multiplication of two polynomials](https://www.geeksforgeeks.org/multiplication-of-two-polynomials-using-linked-list/) using linked lists
+
 
 ## Day-04 <10/09/2020, ThurseDay>
 ### Todays progress
@@ -42,10 +46,18 @@ Learnt the implementation od sparsed matrix.
 worked on some problems of queue datastructure, circular queue implementation and 
 double ended queue.
 
+### links to work
+-> [sparsed matrix](https://www.geeksforgeeks.org/multiplication-of-two-polynomials-using-linked-list/)
+-> [queue data structure](https://www.geeksforgeeks.org/queue-data-structure/)
+-> [circular queue](https://www.techiedelight.com/circular-queue-implementation-c/)
 
 ## Day-05 <11/09/2020, FriDay>
 ### Todays progress
 evaluation and conversions of infix, postfix expressions using stack
+
+### links to work
+-> [conversions](https://medium.com/@souvikhaldar/how-to-convert-an-infix-expression-to-prefix-or-postfix-expression-7987cb1a2284)
+-> [evaluation of postfix expression](https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/)
 
 
 ## Day-06 <12/09/2020, SaturDay>
@@ -86,6 +98,7 @@ learnt the STL implementaion stack, queue, deque, maps.
 
 
 ## Day-11 <21/09/2020 SunDay>
+### todays progress
 learnt stl implementation of map and unordered_map and solved some questions using map.
 
 ### links to work
