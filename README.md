@@ -6,7 +6,7 @@ I've joined the
 # Rules
 1. Code for minimum an hour a day for the next 100 days.
 2. Tweet My progress daily with hashtag **#100DaysOfCode**. [Checkout my tweets here](https://twitter.com/Jd_077)
-3. Update your progress in github repo of 10days of code. [Here is mine](https://github.com/jd-07/100-days-of-code)
+3. Update your progress in github repo of 10days of code. [Here is mine](https://github.com/jdee07/100-days-of-code)
 4. Each day reach out to at least two people on twitter who are also doing the challenge.
 
 # The Next Step
